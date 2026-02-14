@@ -1,1 +1,1 @@
-###Holaaa Soy David Jv y estoy aprendiendo a programar
+Holaaa. Soy David Jv y estoy aprendiendo a programar
